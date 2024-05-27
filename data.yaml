@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['aircraft', 'bird', 'drone']
+
+roboflow:
+  workspace: drone-when8
+  project: drone_bird_aircraft
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/drone-when8/drone_bird_aircraft/dataset/4

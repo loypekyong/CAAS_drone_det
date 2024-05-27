@@ -3,7 +3,4 @@ avi
 /train
 /valid
 /Stuff
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/loypekyong/CAAS_drone_det.git
-git push -u origin main
+best (unresumed).pt
